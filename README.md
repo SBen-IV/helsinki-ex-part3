@@ -1,1 +1,3 @@
-# helsinki-ex-part3
+# Helsinki course exercise part3
+
+Phonebook backend
